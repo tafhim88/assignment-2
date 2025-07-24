@@ -85,3 +85,65 @@
     padding-bottom: 10px;
     opacity: 50%;
 }
+
+/* badge */
+
+.badge img{
+    width: 250px;  
+    
+}
+.badge{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    
+}
+
+/* <!-- leatest deal --> */
+
+.headline-4{
+    text-align: center;
+    margin-top: 100px;
+}
+.headline-4 h1{
+    font-size: 50px;
+    margin: 5px;
+}
+
+.image-3{
+    display: flex;
+    margin: 120px;
+    gap: 20px;
+    align-items: center;
+}
+.image-3  img{
+    border-radius: 20px;
+}
+.text{
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ color: white;
+ transform: translate(-50%, -50%);
+ text-align: center;
+ font-weight: bold;
+ 
+}
+.text a{
+    color: white;
+}
+.left-1st-img{
+    position: relative;
+}
+.left-2nd-img{
+    position: relative;
+}
+.right-img{
+    position: relative;
+}
+.zabo-plant{
+    font-size: xx-large;
+}
