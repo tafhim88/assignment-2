@@ -67,3 +67,21 @@
 .price{
     font-weight: bold;
 }
+
+/* <!-- flower and plant lover --> */
+
+
+.store-container{
+    display: flex;
+    margin: 0px 120px;
+    gap: 50px;
+}
+.headline-3 h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.headline-3 li{
+    font-size: 22px;
+    padding-bottom: 10px;
+    opacity: 50%;
+}
